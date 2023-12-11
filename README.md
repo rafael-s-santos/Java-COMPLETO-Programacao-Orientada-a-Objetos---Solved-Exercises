@@ -9,11 +9,11 @@
 
 <h5 align="left">Exercise Lists</h5>
 
-![List 01 - Sequential Structure]((exercises-list-01-sequential-structure)
-![List 02 - Conditional Structure](exercises-list-02-conditional-structure)
-![List 03 and 04 - Repetitive Structure](exercises-list-03-and-04-repetitive-structure)
-![List 05 - Introduction to OOP](exercises-list-05-introduction-to-OOP)
-(WIP)...
+ ![List 01 - Sequential Structure]((exercises-list-01-sequential-structure)
+ ![List 02 - Conditional Structure](exercises-list-02-conditional-structure)
+ ![List 03 and 04 - Repetitive Structure](exercises-list-03-and-04-repetitive-structure)
+ ![List 05 - Introduction to OOP](exercises-list-05-introduction-to-OOP)
+ (WIP)...
 
 <p>The implementation of the solutions for the exercises was done with Java 11.</p>
 

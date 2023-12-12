@@ -1,4 +1,4 @@
-<h4 align="left">Java COMPLETO 2024 - Solved Exercises</h4>
+<h4 align="center">Java COMPLETO 2024 - Solved Exercises</h4>
 
 <img src="/resources/java_logo.png" min-width="300px" max-width="300px" width="300px" align="right">
 

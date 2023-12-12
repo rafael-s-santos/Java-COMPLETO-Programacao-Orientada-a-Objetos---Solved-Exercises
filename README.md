@@ -2,10 +2,7 @@
 
 <img src="/resources/java_logo.png" min-width="300px" max-width="300px" width="300px" align="right">
 
-<span align="left"></span>
-<span align="left"></span>
-<span align="left"></span>
-<span align="left"></span>
+<<br><br><br><br>
 
 <p align="left">This repository contains my solutions to the exercises from the 'Java COMPLETO 2024' course, instructed by Nelio Alves. The solutions are organized by exercise lists.</p>
 

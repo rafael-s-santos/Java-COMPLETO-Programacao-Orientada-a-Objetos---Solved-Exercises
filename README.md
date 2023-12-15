@@ -6,7 +6,7 @@
 <br><br>
 
 <p align="left">
-	This repository contains my solutions to the exercises from the 'Java COMPLETO 2024' course, instructed by Nelio Alves.
+	This repository contains my solutions to the <strong>exercises list</strong> from the 'Java COMPLETO 2024 Programação Orientada a Objetos' course, instructed by Nelio Alves.
 </p> 
 
 <p align="left"> The solutions are organized by exercise lists.</p>

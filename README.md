@@ -6,7 +6,7 @@
 <br><br>
 
 <p align="left">
-	This repository contains my solutions to the <strong>exercises list</strong> from the ['Java COMPLETO 2024 Programação Orientada a Objetos'](https://www.udemy.com/course/java-curso-completo/) course, instructed by [Nelio Alves](https://www.linkedin.com/in/nelio-alves/).
+	This repository contains my solutions to the <strong>exercises list</strong> from the ['Java COMPLETO 2024 Programação Orientada a Objetos'](https://www.udemy.com/course/java-curso-completo) course, instructed by [Nelio Alves](https://www.linkedin.com/in/nelio-alves).
 </p> 
 
 <p align="left"> The solutions are organized by exercise lists.</p>

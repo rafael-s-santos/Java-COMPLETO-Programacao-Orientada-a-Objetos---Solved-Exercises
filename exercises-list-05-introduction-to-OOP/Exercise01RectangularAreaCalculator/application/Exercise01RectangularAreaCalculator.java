@@ -22,10 +22,11 @@ public class Exercise01RectangularAreaCalculator {
         double perimeter = rectangle.perimeter();
         double diagonal = rectangle.diagonal();
 
-        System.out.println("Rectangle area: " + area);
-        System.out.println("Rectangle perimeter: " + perimeter);
-        System.out.println("Rectangle diagonal: " + diagonal);
+        System.out.println("Rectangle area: " + area + ".");
+        System.out.println("Rectangle perimeter: " + perimeter + ".");
+        System.out.println("Rectangle diagonal: " + diagonal + ".");
 
         inputScanner.close();
     }
 }
+

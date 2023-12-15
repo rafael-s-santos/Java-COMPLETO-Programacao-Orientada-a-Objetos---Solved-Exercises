@@ -14,3 +14,4 @@ public class Rectangle {
         return Math.sqrt(Math.pow(width, 2) + Math.pow(height, 2));
     }
 }
+

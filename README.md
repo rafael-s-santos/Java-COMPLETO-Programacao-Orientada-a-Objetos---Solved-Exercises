@@ -13,4 +13,4 @@
 
 <p align="left">The implementation of the solutions for the exercises was done with Java 11.</p>
 
-<p align="center">Just code! 💻</p>
+<p align="center">Take a look! 💻</p>

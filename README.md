@@ -5,7 +5,7 @@
 <img src="/resources/java_logo.png" min-width="300px" max-width="300px" width="300px" alt="Course Logo">
 </p>
 
-<p>This repository contains my solutions to the <strong>exercises list</strong> from the <a href="https://www.udemy.com/course/java-curso-completo">'Java COMPLETO 2024 Programação Orientada a Objetos'</a> course, instructed by <a href="https://www.linkedin.com/in/nelio-alves">Nelio Alves</a>.
+<p>This repository contains my solutions to the <strong>exercises list</strong> from the <a href="https://www.udemy.com/course/java-curso-completo">'Java COMPLETO Programação Orientada a Objetos'</a> course, instructed by <a href="https://www.linkedin.com/in/nelio-alves">Nelio Alves</a>.
 </p> 
 
 <p>The solutions are organized by exercise lists.</p>
